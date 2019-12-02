@@ -45,7 +45,7 @@
  				 <li><a href="http://constantvzw.org/site/Noises-I-could-not-ignore.html">Adress</a></li>
 			</ul>
 
-			<div><img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"</div>
+
 			
 
 		
