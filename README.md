@@ -51,9 +51,12 @@ body {
 	</style>
 	</head>
 	<body>
+	
 
 
-		<h1>My Soundscape</h1>
+		<div>
+		<img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"alt="image here"
+		</div>
 			<ul>
  				 <li ><a href="file:///C:/Users/UserPc/Documents/HTML/websample%20index.html">Home</a></li>
  				 <li><a href="http://gallery3.constantvzw.org/index.php/noisesicouldnotignore">Exhibition</a></li>
@@ -61,8 +64,6 @@ body {
  				 <li><a href="http://constantvzw.org/site/Noises-I-could-not-ignore.html">Adress</a></li>
 			</ul>
 
-
-		<div><img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"</div>
 
 		<div>As a person immensely fascinated by <em>accents</em> and <em>sounds</em>, I have 
 
