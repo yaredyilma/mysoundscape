@@ -5,44 +5,14 @@
 	<meta charset="utf-8">
 	<head>
 	<style>
-		html, body {
- 
-			li {
-  			  display: inline-block;
-    			padding-left: 15px;
-    			padding-right: 15px;
-			}  
+		
 
-		a {
-   			 text-decoration: none;
-    			color: red;
-
-			}
-			} 
-			ul {
-  			list-style-type: none;
- 				margin: 0;
-  				padding: 0;
-				}
-				
-				li {
-  				float: left;
-				}
-
-				a {
-  				display: block;
-  				padding: 8px;
- 				background-color: #dddddd;
-				}
 	</style>
 	</head>
 	<body>
 	
 
 
-		<div>
-		<img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="200px"alt="image here"
-		</div>
 			<ul>
  				 <li ><a href="file:///C:/Users/UserPc/Documents/HTML/websample%20index.html">Home</a></li>
  				 <li><a href="http://gallery3.constantvzw.org/index.php/noisesicouldnotignore">Exhibition</a></li>
@@ -62,7 +32,7 @@ imagined that one day, I would dicuss <strong>the negative impacts of sounds in 
  people: children, teenegers, men and women of diffrent cultures bumping into each other in one space can produce so much noise! to me the centre felt as a secluded dystopia where universal deafness is considred a sane option.</p>
 
 		  Read more on <a href="http://constantvzw.org/site/Noises-I-could-not-ignore.html">Noises I Couldn't Ignore</a></div>
-		  <img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00958.JPG?m=1558683037" width="600px";
+		
 
 
 <footer>
