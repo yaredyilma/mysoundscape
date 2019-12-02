@@ -59,7 +59,8 @@ imagined that one day, I would dicuss <strong>the negative impacts of sounds in 
 <p>Some noises posses a power to cut-through one's inner flesh, and in my tumultous stay at the refugee camp, I was stabbed countless times by mere sounds that felt like daggers. while the particular shrill whistle leaves its scar indelibly, some noises tend to be less sharp on the edge, but are insistent enough to cut deep into anyone's inner calm. 106
  people: children, teenegers, men and women of diffrent cultures bumping into each other in one space can produce so much noise! to me the centre felt as a secluded dystopia where universal deafness is considred a sane option.</p>
 
-		  Read more on <a href="http://constantvzw.org/site/Noises-I-could-not-ignore.html">Noises I Couldn't Ignore<img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"</a></div>
+		  Read more on <a href="http://constantvzw.org/site/Noises-I-could-not-ignore.html">Noises I Couldn't Ignore</a></div>
+		  <img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00958.JPG?m=1558683037" width="600px";
 
 
 <footer>
