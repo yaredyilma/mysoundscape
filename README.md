@@ -47,11 +47,11 @@
 
 			<div><img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"</div>
 			
-		<div class="pic"><p <img src="https://gallery3.constantvzw.org/var/resizes/Noises/DSC00959.JPG?m=1558683039">As a person immensely fascinated by <em>accents</em> and <em>sounds</em>, I have 
+		<div class="pic"><img src="https://gallery3.constantvzw.org/var/resizes/Noises/DSC00959.JPG?m=1558683039">
+		
+		As a person immensely fascinated by <em>accents</em> and <em>sounds</em>, I have 
 
-imagined that one day, I would dicuss <strong>the negative impacts of sounds in my life!</strong>.From the 25rd of October until the 22nd of February, my Soundscapes will come to life in the windows of sacred scenes. You are all 
-
-welcome to the opening on Thursday the 24th evening, from 18:00 om.</p>
+imagined that one day, I would dicuss <strong>the negative impacts of sounds in my life!</strong>.From the 25rd of October until the 22nd of February, my Soundscapes will come to life in the windows of sacred scenes. You are all welcome to the opening on Thursday the 24th evening, from 18:00 om.
 
 		<p>Noise is a sound that all humans learn to ignore. Each and everyone of us grow up with listening mastery in tunning out noises from the environment, and push them into background noises as our will. Then I became a refugee and faced noises that couldn't simply be ignored.</p>
 
