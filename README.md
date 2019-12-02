@@ -6,21 +6,7 @@
 	<head>
 	<style>
 		html, body {
-  height: 100%;
-}
-body {
-  padding-top: 87px; 
-  padding-bottom: 50px; 
-}
-.navbar-offset {
-    top: 37px; 
-}
-.container-fluid.scrollable {
-  height: 100%; 
-  overflow: auto; 
-  background: #ccc;
-}
-
+ 
 			li {
   			  display: inline-block;
     			padding-left: 15px;
@@ -55,7 +41,7 @@ body {
 
 
 		<div>
-		<img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"alt="image here"
+		<img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="200px"alt="image here"
 		</div>
 			<ul>
  				 <li ><a href="file:///C:/Users/UserPc/Documents/HTML/websample%20index.html">Home</a></li>
