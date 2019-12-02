@@ -1,6 +1,5 @@
-<!doctype html>
+
 <html>
-	<head>
 	<title>My Soundscape</title>
 
 	<meta charset="utf-8">
@@ -63,9 +62,7 @@ body {
 			</ul>
 
 
-			
-
-		
+		<div href="https://gallery3.constantvzw.org/var/albums/Noises/DSC00959.JPG?m=1558683038" width="300px"></div>
 		<div>As a person immensely fascinated by <em>accents</em> and <em>sounds</em>, I have 
 
 imagined that one day, I would dicuss <strong>the negative impacts of sounds in my life!</strong>.From the 25rd of October until the 22nd of February, my Soundscapes will come to life in the windows of sacred scenes. You are all welcome to the opening on Thursday the 24th evening, from 18:00 om.
