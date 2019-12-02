@@ -6,17 +6,21 @@
 	<meta charset="utf-8">
 	</head>
 	<style>
-			
-		.body-color {
-    		background: rgb(27,39,57)
-			}
-		#menu {
-    			text-align: center;
-    			background-color: white;
-    			padding-bottom: 100px;
-    			margin-left: 0;
-   			 padding-left: 0;
-			}
+		html, body {
+  height: 100%;
+}
+body {
+  padding-top: 87px; 
+  padding-bottom: 50px; 
+}
+.navbar-offset {
+    top: 37px; 
+}
+.container-fluid.scrollable {
+  height: 100%; 
+  overflow: auto; 
+  background: #ccc;
+}
 
 			li {
   			  display: inline-block;
