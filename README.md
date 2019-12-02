@@ -47,7 +47,7 @@
 
 			<div><img src="https://gallery3.constantvzw.org/var/albums/Noises/DSC00944.JPG?m=1558683001" width="400px"</div>
 			
-		<div class="pic">
+
 		
 		As a person immensely fascinated by <em>accents</em> and <em>sounds</em>, I have 
 
