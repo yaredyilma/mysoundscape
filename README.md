@@ -6,20 +6,33 @@
 	<meta charset="utf-8">
 	</head>
 	<style>
-			.pic{
-				clear:bottom-right;
-				
+			
+		.body-color {
+    		background: rgb(27,39,57)
 			}
-				
+		#menu {
+    			text-align: center;
+    			background-color: white;
+    			padding-bottom: 100px;
+    			margin-left: 0;
+   			 padding-left: 0;
+			}
 
-		p {
-			Font-family:"sans-serif", "Garamond"
-			font-size:12px;
-			color:light-blue;
+			li {
+  			  display: inline-block;
+    			padding-left: 15px;
+    			padding-right: 15px;
+			}  
+
+		a {
+   			 text-decoration: none;
+    			color: red;
+
+			}
 			} 
-				ul {
-  				list-style-type: none;
- 				 margin: 0;
+			ul {
+  			list-style-type: none;
+ 				margin: 0;
   				padding: 0;
 				}
 				
